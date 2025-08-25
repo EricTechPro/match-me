@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__executeCode",
+      "mcp__byterover-mcp__byterover-store-knowledge",
+      "mcp__byterover-mcp__byterover-retrive-knowledge"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "byterover-mcp"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "byterover-mcp": {
+      "type": "http",
+      "url": "https://mcp.byterover.dev/mcp?machineId=1f06279e-313b-65d0-bd4b-15f0ecb3ffb1"
+    },
+    "shadcn-ui": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@jpisnice/shadcn-ui-mcp-server"]
+    }
+  }
+}
